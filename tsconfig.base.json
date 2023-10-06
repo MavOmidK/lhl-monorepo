@@ -15,6 +15,7 @@
     "skipDefaultLibCheck": true,
     "baseUrl": ".",
     "paths": {
+      "@lhl/server/feature-bid": ["server/feature-bid/src/index.ts"],
       "@lhl/shared/domain": ["shared/domain/src/index.ts"]
     }
   },
